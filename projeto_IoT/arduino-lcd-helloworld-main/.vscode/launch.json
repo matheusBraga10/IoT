@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Wokwi GDB",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${workspaceFolder}/build/arduino-lcd-helloworld.ino.elf",
+        "cwd": "${workspaceFolder}",
+        "MIMode": "gdb",
+        "miDebuggerPath": "/home/matheus/Documentos/MeusProjetos/IoT/avr-gcc-13.2.0-x64-linux/bin/avr-gdb.exe",
+        "miDebuggerServerAddress": "localhost:3333"
+      }
+    ]
+  }
