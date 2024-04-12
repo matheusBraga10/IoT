@@ -1,5 +1,5 @@
 [wokwi]
 version=1
-firmware='build/arduino-lcd-helloworld.ino.hex'
-elf='build/arduino-lcd-helloworld.ino.elf'
+firmware='projeto_IoT/arduino-lcd-helloworld-main/arduino-lcd-helloworld.ino.hex'
+elf='projeto_IoT/arduino-lcd-helloworld-main/arduino-lcd-helloworld.ino.elf'
 gdbServerPort=3333
