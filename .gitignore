@@ -1,0 +1,7 @@
+
+*.json
+*.json
+*.json
+projeto_IoT/arduino-lcd-helloworld-main/LiquidCrystal_I2C.h
+.vscode/launch.json
+.vscode/arduino.json
